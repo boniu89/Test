@@ -28,7 +28,7 @@ public class zad {
 	}
 	
 	//dotproduct
-	public static double dp(DoubleMatrix2D a, DoubleMatrix2D b, int z, int x)
+	public static double dp4(DoubleMatrix2D a, DoubleMatrix2D b, int z, int x)
 	{
 		double temp=0;
 	
